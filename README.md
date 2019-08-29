@@ -1,7 +1,7 @@
 🅻🅰🅿🅾🆁🅰🅽-🅹🅾🅱🆂🅷🅴🅴🆃6-🅿🅴🆁🅲🅰🅱🅰🅽🅶🅰🅽-🅽🅴🆆
 =
 =
-#6.𝓐.
+#====𝒮𝑜𝒶𝓁.𝓃𝑜===𝟨.𝓐.
 
 
 
@@ -21,7 +21,7 @@
 =
 =
 =
-#9.𝓐
+#====𝓢𝓸𝓪𝓵.𝓷𝓸===9.𝓐
 
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/9%20jwb%203.PNG)
@@ -46,7 +46,7 @@
 =
 =
 =
-#12.𝓐
+#====𝓢𝓸𝓪𝓵.𝓷𝓸===12.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/12jwb1.PNG)
 
@@ -77,7 +77,7 @@
 =
 =
 =
-#15.𝓐
+#====𝓢𝓸𝓪𝓵.𝓷𝓸===15.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/14jwb1.PNG)
 
@@ -103,7 +103,7 @@
 =
 =
 =
-#18.𝓐
+#====𝓢𝓸𝓪𝓵.𝓷𝓸===18.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/18jwb1.PNG)
 
@@ -135,7 +135,7 @@
 =
 =
 =
-#21.𝓐
+#====𝓢𝓸𝓪𝓵.𝓷𝓸===21.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/21jwb50.PNG)
 
