@@ -15,13 +15,10 @@
 
 
 
-
-
-
-`
-`
-`
-
+=
+=
+=
+=
 #9.𝓐
 
 
@@ -42,10 +39,11 @@
 
 
 
-`
-`
-`
 
+=
+=
+=
+=
 #12.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/12jwb1.PNG)
@@ -69,10 +67,14 @@
 
 
 
-`
-`
-`
 
+
+
+
+=
+=
+=
+=
 #15.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/14jwb1.PNG)
@@ -93,9 +95,12 @@
 
 
 
-`
-`
-`
+
+
+=
+=
+=
+=
 #18.𝓐
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/18jwb1.PNG)
@@ -123,7 +128,7 @@
 
 
 `
-`
+
 `
 
 #𝟚𝟙.𝔸
