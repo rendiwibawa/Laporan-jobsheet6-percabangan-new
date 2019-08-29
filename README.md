@@ -12,6 +12,7 @@
 
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/6jwb7.PNG)
+=
 #B.Setelah code di tambahkan maka, program akan meminta agar kita menginput angka dan angka yang saya inputkan adalah 3,5,dan7 jadi program akan memproses angka tersebut misalnya angka 3 akan mengeluarkan hasil nilai a=3 kurang dari 5, jika nilai a=5 maka nilai a sama dengan 5, Dan jika 7 maka nilai a lebih dari 5  
 
 
