@@ -18,6 +18,7 @@
 
 
 #9.A
+
 (3)
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/9%20jwb%203.PNG)
 
@@ -34,6 +35,7 @@
 
 
 #12.A
+
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/12jwb1.PNG)
 
 
@@ -53,6 +55,7 @@
 
 
 #15.A
+
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/14jwb1.PNG)
 
 
@@ -69,6 +72,7 @@
 
 
 #18.A
+
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/18jwb1.PNG)
 
 
@@ -91,6 +95,7 @@
 
 
 #21.A
+
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/21jwb50.PNG)
 
 
@@ -103,6 +108,7 @@
 
 
 #PERCABANGAN
+
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/resep%20bahan%20makanan%201-1.PNG)
 
 
@@ -124,5 +130,6 @@
 
 
 #PROGRAM_PEMBAYARAN_TAGIHAN_LISTRIK
+
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/listrik%20pembayaran%20new..PNG)
 
