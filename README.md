@@ -65,7 +65,8 @@
 
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/12jwb7.PNG)
-#B.
+=
+#B.code yang di tambahkan di atas ini adalah code yang mengandung proses jika a=5 maka akan di print out “Nilai a sama dengan 5”dan bila kurang dari 5 akan “Print out a kurang dari 5” sama hal nya dengan lebih dari 5. Dan ada juga proses a<4\a<6\a==6\a lebih dari 6, proses ini akan beroprasi saat kita menginputkan nilai dan program akan memprosesnya
 
 
 
@@ -93,7 +94,10 @@
 
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/14jwb7.PNG)
-#B.
+=
+#B.program di atas memiliki proses jika a<7 (kurang dari 7)cetak a kurang dari 7.
+Jika a>2 cetak a lebih dari 2. Dan jika a<4 cetak a kurang dari 4 akan mengeksekusi setiap angka yang kita inputkan
+
 
 
 
@@ -126,7 +130,8 @@
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/18jwb7.PNG)
 
-#B.
+=
+#B.Program di atas akan mengolah angka yang kita inputkan dengan metode switch case yaitu akan mencocokan setiap baris case yang sudah memiliki proses sendiri2 jika case yang memiliki proses memenuhi syarat dengan nilai yang kita inputkan maka akan di cetak kemudia akan berhenti atau(Break) jika tidak maka akam memproses dengan chase yang lain sampai cocok dengan proses yang ada
 
 
 
@@ -149,7 +154,8 @@
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/21jwb85.PNG)
 
-#B.
+=
+#B.Program data nilai di atas di gunakan untuk menentukan nilai seseorang mendapatkan kategori “Belum kompeten dan Kompeten” dimana nilai yang <75 akan mendapatkan kategori Belum kompeten  dan jika nilainya lebih dari 75 akan mendapatkan kategori atau predikat Kompeten program ini menyingkat program yang memiliki arti dan proses yang sama hal ini dapat menghemat waktu.
 
 
 
@@ -183,7 +189,8 @@
 
 ![ALt Text](https://github.com/rendiwibawa/Laporan-jobsheet6-percabangan-new/blob/master/resep%20bahan%20masakan%202-3.PNG)
 
-#B.
+=
+#B.Code pertama adalah pengenalan diri, kedua adalah print out bahan bahan yang di miliki oleh pengguna dan pengguna akan memilih bahan bahanya dengan menginputkan nomor yang mewakilkan baha tersebut.selanjutnya pengguna akan di tuntun unyuk kembali mengisikan bahan kedua apa yang ia miliki agar menjadi suatu resep masakan dan jika pengguna tidak memiliki semua bahan yang ada program akan memunculkan resep yang paling sederhana misalnya membuat telur rebus dan apabila user menginputkan nomor yang tidak sesuai dengan pilihanya maka program akan mengeprint out kata”pilihan anda tidak di temukan dst.”jika langkah tadi sudah di lakukan maka program akan otomatis memberikan saran resep yang menggunakan bahan bahan yang telah anda pilih tadinya 
 
 
 
